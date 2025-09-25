@@ -5,15 +5,15 @@
     
     <entry>
       <title>踏上程序员之路-first step</title>
-      <link href="/2025/09/25/one/"/>
-      <url>/2025/09/25/one/</url>
+      <link href="/2025/09/25/%E8%B8%8F%E4%B8%8A%E7%A8%8B%E5%BA%8F%E5%91%98%E4%B9%8B%E8%B7%AF-first-step/"/>
+      <url>/2025/09/25/%E8%B8%8F%E4%B8%8A%E7%A8%8B%E5%BA%8F%E5%91%98%E4%B9%8B%E8%B7%AF-first-step/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<mark class="hl-label purple">出乎意料的开端</mark>  <p>如标题所述，是的，主包在高考录取结果出来之前<strong>根本没有</strong>考虑过自己将来要走计算机这条路。<br>从很小的时候，家里人就向主包灌输着当老师的<strong>108</strong>个好处(摊)，主包本人也确实对那样稳定和平的生活产生了很大的向往。当然，这个梦还没开始做就碎得可以，毕竟本人现在已经来到了这里。haha…<br>于是完全零基础的小主包就这样误闯天家orz  </p><mark class="hl-label blue">最初的印象</mark>  <p>不过其实也没有那么悲惨啦，对于技术方面还是挺感兴趣的www<br>平时在B站也会刷到一些大佬up主的视频，比如稚晖君、何同学，然后在内心发出深深的感叹————  </p><h3 id="高级"><a href="#高级" class="headerlink" title="高级"></a>高级</h3><h2 id="高级-1"><a href="#高级-1" class="headerlink" title="高级"></a>高级</h2><h1 id="还是（那啥的）高级"><a href="#还是（那啥的）高级" class="headerlink" title="还是（那啥的）高级"></a>还是（那啥的）高级</h1><p>完全不懂呢…听个响了属于是。<br>真的很羡慕他们能够把任意的灵感一点点转化成现实，每当那种时候，就会默默地想：<em>如果有朝一日我也能成为像他们一样的存在，就好了</em>  </p><mark class="hl-label orange">毅然决然的启程</mark>  <p>本着要努力抓住些什么的想法，开始在转战各个平台了解计算机知识、尝试询问学长学姐们学习的经验、加入创客空间训练营。<br>很难，很累，一堆不认识的代码、不认识的名词，让我的效率非常低下，每天熬过0点换来的是仅仅前进一小步的项目。<br>但很充实，我学会了<strong>电脑截屏、开启管理员模式、切换目录位置、安装插件、配置环境、查找问题源并逐一解决</strong>…慢慢地，我也能拥有属于自己的小博客小世界，尽管它还显得如此简陋。<br>很感谢XBX学长(暂时指代一下吧kkk)，无论我的问题来的多晚多突然，依然耐心及时地给予着帮助，给予我渐渐成长的空间，我想说，在这条陌生的计算机路上，能遇到TA们，真的很幸运啊。<br>今后也要继续加油呢。  </p><p><img src="/images/tt.jpg" alt="开心">                                                     </p>]]></content>
       
       
       <categories>
           
-          <category> 编程 </category>
+          <category> 生活 </category>
           
       </categories>
       
@@ -23,6 +23,17 @@
     
   
   
+    
+    
+    <entry>
+      <title>归档</title>
+      <link href="/archives/index.html"/>
+      <url>/archives/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
     
     
     <entry>
@@ -40,39 +51,6 @@
       <title>关于</title>
       <link href="/about/index.html"/>
       <url>/about/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>分类</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>归档</title>
-      <link href="/archives/index.html"/>
-      <url>/archives/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>电影</title>
-      <link href="/movies/index.html"/>
-      <url>/movies/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -103,9 +81,31 @@
     
     
     <entry>
-      <title>说说</title>
-      <link href="/shuoshuo/index.html"/>
-      <url>/shuoshuo/index.html</url>
+      <title>电影</title>
+      <link href="/movies/index.html"/>
+      <url>/movies/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>音乐</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -125,9 +125,9 @@
     
     
     <entry>
-      <title>音乐</title>
-      <link href="/music/index.html"/>
-      <url>/music/index.html</url>
+      <title>说说</title>
+      <link href="/shuoshuo/index.html"/>
+      <url>/shuoshuo/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
