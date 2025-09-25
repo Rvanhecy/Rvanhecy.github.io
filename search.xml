@@ -26,28 +26,6 @@
     
     
     <entry>
-      <title>留言板</title>
-      <link href="/comments/index.html"/>
-      <url>/comments/index.html</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" href="/css/commentsbar.css"/>  <div id="computer">    <div id="maincontent"><br>      <div id="form-wrap"><img src="https://cdn.jsdelivr.net/gh/Akilarlxh/Valine-Admin@v1.0/source/img/before.png" id="beforeimg">        <div id="envelope">          <form>            <div class="formmain">              <img class="headerimg" src="https://ae01.alicdn.com/kf/U5bb04af32be544c4b41206d9a42fcacfd.jpg"/>              <div style="padding: 5px 20px;">                <center>                  <h3 calss="title3">来自Akilar的留言:</h3>                </center>                <center class="comments">                  有什么想问的？<br>                  有什么想说的？<br>                  有什么想吐槽的？<br>                  哪怕是有什么想吃的，都可以告诉我哦~<br>                </center>                <div class="bottomcontent">                <img class="bottomimg" src="https://ae01.alicdn.com/kf/U0968ee80fd5c4f05a02bdda9709b041eE.png"/>                </div>                <p class="bottomhr">自动书记人偶竭诚为您服务！</p>              </div>            </div>          </form>        </div><img id="afterimg" src="https://cdn.jsdelivr.net/gh/Akilarlxh/Valine-Admin@v1.0/source/img/after.png">      </div>    </div>  </div>  <div id="mobile">    <form>      <div class="formmain"><img class="headerimg" src="https://ae01.alicdn.com/kf/U5bb04af32be544c4b41206d9a42fcacfd.jpg" />        <div style="padding: 5px 20px;">          <center>            <h3 class="title3">来自Akilar的留言:</h3>          </center>          <center class="comments">            有什么想问的？<br>            有什么想说的？<br>            有什么想吐槽的？<br>            哪怕是有什么想吃的，都可以告诉我哦~<br>          </center>          <div class="bottomcontent"><img src="https://ae01.alicdn.com/kf/U0968ee80fd5c4f05a02bdda9709b041eE.png" class="bottomhr"></div>          <p class="bottomhr"">自动书记人偶竭诚为您服务！</p>        </div>      </div>    </form>  </div>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
-      <link href="/css/custom.css"/>
-      <url>/css/custom.css</url>
-      
-        <content type="html"><![CDATA[.loading-img {    background: url('/images/xiaoxiong.jpg') no-repeat center center;    background-size: cover;}.pace {    pointer-events: none;    user-select: none;    z-index: 2;    position: fixed;    margin: auto;    top: 4px;    left: 0;    right: 0;    height: 8px;    border-radius: 8px;    width: 6rem;    background: #eaecf2;    overflow: hidden;}.pace-inactive .pace-progress {    opacity: 0;    transition: 0.3s ease-in;}.pace.pace-inactive {    opacity: 0;    transition: 0.3s;    top: -8px;}.pace .pace-progress {    box-sizing: border-box;    transform: translate3d(0, 0, 0);    position: fixed;    z-index: 2;    display: block;    position: absolute;    top: 0;    right: 100%;    height: 100%;    width: 100%;    background: #49b1f5;    background: linear-gradient(to right,            rgb(18, 194, 233),            rgb(196, 113, 237),            rgb(246, 79, 89));    animation: gradient 2s ease infinite;    background-size: 200%;}]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>关于</title>
       <link href="/about/index.html"/>
       <url>/about/index.html</url>
@@ -59,9 +37,9 @@
     
     
     <entry>
-      <title>友链</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
+      <title>归档</title>
+      <link href="/archives/index.html"/>
+      <url>/archives/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -70,11 +48,11 @@
     
     
     <entry>
-      <title>音乐</title>
-      <link href="/music/index.html"/>
-      <url>/music/index.html</url>
+      <title>留言板</title>
+      <link href="/comments/index.html"/>
+      <url>/comments/index.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" href="/css/commentsbar.css"/>  <div id="computer">    <div id="maincontent"><br>      <div id="form-wrap"><img src="https://cdn.jsdelivr.net/gh/Akilarlxh/Valine-Admin@v1.0/source/img/before.png" id="beforeimg">        <div id="envelope">          <form>            <div class="formmain">              <img class="headerimg" src="https://ae01.alicdn.com/kf/U5bb04af32be544c4b41206d9a42fcacfd.jpg"/>              <div style="padding: 5px 20px;">                <center>                  <h3 calss="title3">来自Akilar的留言:</h3>                </center>                <center class="comments">                  有什么想问的？<br>                  有什么想说的？<br>                  有什么想吐槽的？<br>                  哪怕是有什么想吃的，都可以告诉我哦~<br>                </center>                <div class="bottomcontent">                <img class="bottomimg" src="https://ae01.alicdn.com/kf/U0968ee80fd5c4f05a02bdda9709b041eE.png"/>                </div>                <p class="bottomhr">自动书记人偶竭诚为您服务！</p>              </div>            </div>          </form>        </div><img id="afterimg" src="https://cdn.jsdelivr.net/gh/Akilarlxh/Valine-Admin@v1.0/source/img/after.png">      </div>    </div>  </div>  <div id="mobile">    <form>      <div class="formmain"><img class="headerimg" src="https://ae01.alicdn.com/kf/U5bb04af32be544c4b41206d9a42fcacfd.jpg" />        <div style="padding: 5px 20px;">          <center>            <h3 class="title3">来自Akilar的留言:</h3>          </center>          <center class="comments">            有什么想问的？<br>            有什么想说的？<br>            有什么想吐槽的？<br>            哪怕是有什么想吃的，都可以告诉我哦~<br>          </center>          <div class="bottomcontent"><img src="https://ae01.alicdn.com/kf/U0968ee80fd5c4f05a02bdda9709b041eE.png" class="bottomhr"></div>          <p class="bottomhr"">自动书记人偶竭诚为您服务！</p>        </div>      </div>    </form>  </div>]]></content>
       
     </entry>
     
@@ -103,6 +81,17 @@
     
     
     <entry>
+      <title></title>
+      <link href="/css/custom.css"/>
+      <url>/css/custom.css</url>
+      
+        <content type="html"><![CDATA[.loading-img {    background: url('/images/xiaoxiong.jpg') no-repeat center center;    background-size: cover;}.pace {    pointer-events: none;    user-select: none;    z-index: 2;    position: fixed;    margin: auto;    top: 4px;    left: 0;    right: 0;    height: 8px;    border-radius: 8px;    width: 6rem;    background: #eaecf2;    overflow: hidden;}.pace-inactive .pace-progress {    opacity: 0;    transition: 0.3s ease-in;}.pace.pace-inactive {    opacity: 0;    transition: 0.3s;    top: -8px;}.pace .pace-progress {    box-sizing: border-box;    transform: translate3d(0, 0, 0);    position: fixed;    z-index: 2;    display: block;    position: absolute;    top: 0;    right: 100%;    height: 100%;    width: 100%;    background: #49b1f5;    background: linear-gradient(to right,            rgb(18, 194, 233),            rgb(196, 113, 237),            rgb(246, 79, 89));    animation: gradient 2s ease infinite;    background-size: 200%;}]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>说说</title>
       <link href="/shuoshuo/index.html"/>
       <url>/shuoshuo/index.html</url>
@@ -125,9 +114,20 @@
     
     
     <entry>
-      <title>归档</title>
-      <link href="/archives/index.html"/>
-      <url>/archives/index.html</url>
+      <title>音乐</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>友链</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
