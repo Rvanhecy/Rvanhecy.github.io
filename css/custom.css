@@ -86,27 +86,20 @@
 
 
 
-/* 作者头像和状态样式 */
+
+
+
+ /* 作者头像和状态样式 */
 .card-info-avatar {
   position: relative;
   display: inline-block;
   margin-bottom: 10px;
 }
 
-.avatar-img {
-  position: relative;
-  display: inline-block;
-}
-
-.avatar-img img {
-  border-radius: 50%;
-  display: block; /* 确保图片是块级元素 */
-}
-
 .author-status-box {
   position: absolute;
-  bottom: 5px;
-  right: -5px;
+  bottom: 290px;
+  right: 89px;
   background: var(--card-bg);
   border-radius: 20px;
   padding: 4px 8px;
@@ -131,23 +124,6 @@
   white-space: nowrap;
 }
 
-/* 确保文字内容居中 */
-.text-center {
-  text-align: center !important;
-}
-
-.author-info__name, 
-.author-info__description {
-  text-align: center;
-  width: 100%;
-}
-
-.site-data {
-  display: flex;
-  justify-content: center;
-  text-align: center;
-}
-
 /* 响应式调整 */
 @media screen and (max-width: 768px) {
   .author-status-box {
@@ -160,4 +136,14 @@
   .status-emoji {
     font-size: 12px;
   }
+}
+
+/* 确保头像容器有合适的尺寸 */
+.avatar-img {
+  position: relative;
+  display: inline-block;
+}
+
+.avatar-img img {
+  border-radius: 50%;
 }
