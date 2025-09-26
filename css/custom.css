@@ -80,3 +80,84 @@
 #snow {
     pointer-events: none;
 }
+
+
+
+
+
+
+/* 作者头像和状态样式 */
+.card-info-avatar {
+  position: relative;
+  display: inline-block;
+  margin-bottom: 10px;
+}
+
+.avatar-img {
+  position: relative;
+  display: inline-block;
+}
+
+.avatar-img img {
+  border-radius: 50%;
+  display: block; /* 确保图片是块级元素 */
+}
+
+.author-status-box {
+  position: absolute;
+  bottom: 5px;
+  right: -5px;
+  background: var(--card-bg);
+  border-radius: 20px;
+  padding: 4px 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+  border: 2px solid #fff;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 12px;
+  line-height: 1;
+  backdrop-filter: blur(10px);
+  z-index: 10;
+}
+
+.status-emoji {
+  font-size: 14px;
+}
+
+.status-desc {
+  color: var(--font-color);
+  font-weight: 500;
+  white-space: nowrap;
+}
+
+/* 确保文字内容居中 */
+.text-center {
+  text-align: center !important;
+}
+
+.author-info__name, 
+.author-info__description {
+  text-align: center;
+  width: 100%;
+}
+
+.site-data {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+/* 响应式调整 */
+@media screen and (max-width: 768px) {
+  .author-status-box {
+    font-size: 11px;
+    padding: 3px 6px;
+    bottom: 3px;
+    right: -3px;
+  }
+  
+  .status-emoji {
+    font-size: 12px;
+  }
+}
