@@ -147,3 +147,10 @@
 .avatar-img img {
   border-radius: 50%;
 }
+
+
+
+.loading-img {
+  background: url(/images/xiaoxiong.jpg) no-repeat center center;
+  background-size: cover;
+}

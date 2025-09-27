@@ -5104,10 +5104,6 @@ figure.highlight pre .javascript .function {
     filter: alpha(opacity=40);
   }
 }
-.loading-img {
-  background: url("/images/bg.jpg") no-repeat center center;
-  background-size: cover;
-}
 #pagination .pagination {
   margin-top: 20px;
   text-align: center;
